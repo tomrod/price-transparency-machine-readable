@@ -10,5 +10,11 @@
     "url":"https://www.bcbstx.com/member/policy-forms/machine-readable-file",
     "type":"json",
     "states":["TX"]
+  },
+  {
+   "name": "Florida Blue (BCBS)",
+    "url": "https://www.floridablue.com/members/tools-resources/transparency/machine-readable-files",
+    "type": "json",
+    "states": ["FL"]
   }
 ]
