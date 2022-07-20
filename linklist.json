@@ -1,0 +1,14 @@
+[
+  {
+    "name":"Blue Cross Blue Shield Minnesota", 
+    "url":"https://www.bluecrossmn.com/transparency-coverage-machine-readable-files", 
+    "type":"json",
+    "states":["MN"]
+  },  
+  {
+    "name": "Blue Cross Blue Shield Texas",
+    "url":"https://www.bcbstx.com/member/policy-forms/machine-readable-file",
+    "type":"json",
+    "states":["TX"]
+  }
+]
